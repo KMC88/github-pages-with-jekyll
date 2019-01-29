@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## Humble Beginnings
+I'm glad you are here. I plan to talk about the following:
+1. Hello World
